@@ -1,0 +1,48 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+/* CSS Document */
+
+header{
+    width: 80%;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top: 5vh;
+}
+body{
+	height: 500vh;
+	display: block;
+	background-image: url(../img/TitansNewLetterHeaderBG.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: 'Montserrat'!important;
+}
+#newletterHeader{
+	color:white;
+	font-size: 6.5em;
+	text-align: center;
+	font-family: 'Montserrat'!important;
+}
+#logo{
+	
+}
+img {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p, h1, h2, h3, h4, h5, span, div{
+	color:#FAFCFF;
+}
+p{
+	font-size: 1.5em;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+}
+.w3-top{
+	background-color: #F48D3D;
+}
